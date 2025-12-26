@@ -7,8 +7,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Study Buddy AI - Your Learning Assistant",
-  description: "Your intelligent educational companion powered by Gemini AI - Get help with homework, study guides, and learning across all subjects",
-  generator: "v0.dev",
+  description: "Your intelligent educational companion - Get help with homework, study guides, and learning across all subjects",
+  generator: "",
 };
 
 export default function RootLayout({

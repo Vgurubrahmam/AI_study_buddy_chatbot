@@ -8,7 +8,7 @@ export default function Footer() {
               © {new Date().getFullYear()} Study Buddy AI. All rights reserved.
             </p>
           </div>
-          <div className="flex space-x-6">
+          {/* <div className="flex space-x-6">
             <a href="#" className="text-gray-600 hover:text-emerald-600 dark:text-gray-400 dark:hover:text-emerald-400">
               Privacy Policy
             </a>
@@ -18,7 +18,7 @@ export default function Footer() {
             <a href="#" className="text-gray-600 hover:text-emerald-600 dark:text-gray-400 dark:hover:text-emerald-400">
               Contact
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </footer>

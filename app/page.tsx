@@ -11,7 +11,7 @@ export default function Home() {
           <div className="mb-8 text-center">
             <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-2">📚 Study Buddy AI</h1>
             <p className="text-lg text-gray-600 dark:text-gray-300">
-              Your intelligent learning companion powered by Gemini AI - Ask anything, learn everything!
+              Your intelligent learning companion - Ask anything, learn everything!
             </p>
           </div>
           <ChatInterface />
